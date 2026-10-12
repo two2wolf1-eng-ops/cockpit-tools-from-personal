@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-08-04T19:00:00.000Z",
+  "observedAt": "2026-10-12T18:33:22.842Z",
   "policy": {
     "copyThirdPartySource": false,
     "authoritativeAutomaticSwitchSources": [
@@ -15,8 +15,8 @@
       "repo": "openai/codex",
       "url": "https://github.com/openai/codex",
       "defaultBranch": "main",
-      "commitSha": "989a0b053e2510ab76ec2033c1a7db5c1e7c8c92",
-      "version": "rust-v0.146.0",
+      "commitSha": "c308e127e0e8cd040f670ca0e0496ae1c7519d3f",
+      "version": "rust-v0.162.1",
       "license": "Apache-2.0",
       "integrationMode": "protocol_contract",
       "capabilities": [
@@ -34,8 +34,8 @@
       "repo": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "defaultBranch": "main",
-      "commitSha": "290b65c03bc72787f907a788e4d49673cc604142",
-      "version": "v3.19.1",
+      "commitSha": "90fb37ffb76bf06f2d021cd020b7f677216e916c",
+      "version": "v4.0.10",
       "license": "MIT",
       "integrationMode": "capability_boundary",
       "capabilities": [
@@ -83,8 +83,8 @@
       "repo": "ndycode/codex-multi-auth",
       "url": "https://github.com/ndycode/codex-multi-auth",
       "defaultBranch": "main",
-      "commitSha": "962c6b4d4a30938d691ad13e85c4255ec75c2f11",
-      "version": "v2.8.1",
+      "commitSha": "fafb99cc0182b038ad2cd3992fefdf7b803a34a2",
+      "version": "v2.21.0",
       "license": "MIT",
       "integrationMode": "capability_boundary",
       "capabilities": [
